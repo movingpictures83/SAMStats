@@ -1,0 +1,2 @@
+Prefix plugins/SAMStats/example/
+Plugin SAMStats inputfile 1.sam outputfile none

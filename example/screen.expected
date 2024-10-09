@@ -1,0 +1,50 @@
+***********************************************************************************
+*                                                                                 *
+*  PPPPPPPPPPPP    L               U           U   M           M         A        *
+*  P           P   L               U           U   MM         MM        A A       *
+*  P           P   L               U           U   M M       M M       A   A      *
+*  P           P   L               U           U   M  M     M  M      A     A     *
+*  P           P   L               U           U   M   M   M   M     A       A    *
+*  PPPPPPPPPPPP    L               U           U   M    M M    M    A         A   *
+*  P               L               U           U   M     M     M   AAAAAAAAAAAAA  *
+*  P               L               U           U   M           M   A           A  *
+*  P               L               U           U   M           M   A           A  *
+*  P               LLLLLLLLLLLLL    UUUUUUUUUUU    M           M   A           A  *
+*                                                                                 *
+*            [Plu]gin-based [M]icrobiome [A]nalysis (formerly MiAMi)              *
+* (C) 2016, 2018 Bioinformatics Research Group, Florida International University  *
+*    Under MIT License From Open Source Initiative (OSI), All Rights Reserved.    *
+*                                                                                 *
+*    Any professionally published work using PluMA should cite the following:     *
+*                        T. Cickovski and G. Narasimhan.                          *
+*                Constructing Lightweight and Flexible Pipelines                  *
+*                 Using Plugin-Based Microbiome Analysis (PluMA)                  *
+*                     Bioinformatics 34(17):2881-2888, 2018                       *
+*                                                                                 *
+***********************************************************************************
+[PluMA] Running Plugin: SAMStats
+reads   10
+version 1.38.763
+mapped reads    10
+pct align       100.000000
+mapped bases    360
+phred   33
+forward 8
+reverse 2
+len max 36
+mapq mean       25.0000
+mapq stdev      0.0000
+mapq Q1 25.00
+mapq median     25.00
+mapq Q3 25.00
+snp rate        0.027778
+pct mismatch    100.0000
+base qual mean  36.8944
+base qual stdev 9.6238
+%A      31.3889
+%C      30.8333
+%G      10.2778
+%T      21.9444
+%N      5.5556
+num ref seqs    169
+num ref aligned 1
