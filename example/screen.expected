@@ -23,28 +23,28 @@
 *                                                                                 *
 ***********************************************************************************
 [PluMA] Running Plugin: SAMStats
-reads   10
-version 1.38.763
-mapped reads    10
-pct align       100.000000
-mapped bases    360
-phred   33
-forward 8
-reverse 2
-len max 36
-mapq mean       25.0000
-mapq stdev      0.0000
-mapq Q1 25.00
-mapq median     25.00
-mapq Q3 25.00
-snp rate        0.027778
-pct mismatch    100.0000
-base qual mean  36.8944
-base qual stdev 9.6238
-%A      31.3889
-%C      30.8333
-%G      10.2778
-%T      21.9444
-%N      5.5556
-num ref seqs    169
-num ref aligned 1
+reads	10
+version	1.38.763
+mapped reads	10
+pct align	100.000000
+mapped bases	360
+phred	33
+forward	8
+reverse	2
+len max	36
+mapq mean	25.0000
+mapq stdev	0.0000
+mapq Q1	25.00
+mapq median	25.00
+mapq Q3	25.00
+snp rate	0.027778
+pct mismatch	100.0000
+base qual mean	36.8944
+base qual stdev	9.6238
+%A	31.3889
+%C	30.8333
+%G	10.2778
+%T	21.9444
+%N	5.5556
+num ref seqs	169
+num ref aligned	1
